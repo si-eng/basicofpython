@@ -1,0 +1,19 @@
+#list
+x=["apple","banana","cherry"]
+print(x)
+print(type(x))
+#tuples
+x=("apple","banana","cherry")
+print(x)
+print(type(x))
+#string
+x="apple"
+print(x)
+print(type(x))
+#dict
+x={"name":"john","age": 36}
+print(x)
+#set
+x={"apple","banana","cherry"}
+print(x)
+print(type(x))
